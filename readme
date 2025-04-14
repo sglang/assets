@@ -1,0 +1,5 @@
+simple converter from svg to png and jpg
+run with 'uv run main.py'
+
+make sure you have cairo and libffi installed
+	sudo apt install libcairo2-dev libffi-dev

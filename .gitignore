@@ -1,0 +1,8 @@
+*
+!.gitignore
+!readme
+!*.svg
+
+!tools/
+!tools/main.py
+!tools/pyproject.toml
