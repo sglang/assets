@@ -1,4 +1,6 @@
-simple converter from svg to png and jpg
+the assets used for the Seagirl language
+
+in ./tools there is a simple converter from svg to png and jpg
 run with 'uv run main.py'
 
 make sure you have cairo and libffi installed
