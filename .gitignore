@@ -6,3 +6,7 @@
 !tools/
 !tools/main.py
 !tools/pyproject.toml
+
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
